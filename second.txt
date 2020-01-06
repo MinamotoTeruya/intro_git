@@ -1,4 +1,0 @@
-﻿Gitの練習
-基本的なワークフローを学びます。
-・gid add
-・gid commit
